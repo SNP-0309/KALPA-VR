@@ -1,0 +1,199 @@
+{
+  "voiceGuide": "Naad",
+  "disclaimer": "The comparative synthesis between cosmological stages and Puranic narratives is presented as a philosophical and poetic reflection, honoring both empirical science and sacred metaphor.",
+  "chapters": {
+    "0": {
+      "id": 0,
+      "title": "The Void",
+      "science": [
+        { "time": 1, "text": "I am Naad, the first sound. Let me show you how it began." },
+        { "time": 5, "text": "Before stars, before time, there was only the silent potential of spacetime, awaiting the quantum fluctuation of existence." }
+      ],
+      "purana": [
+        { "time": 1, "text": "I am Naad, the primordial vibration. Let me show you how it began." },
+        { "time": 5, "text": "In the beginning, there was neither existence nor non-existence. Only the boundless, unmanifest ocean of infinite stillness." }
+      ],
+      "blended": [
+        { "time": 1, "text": "I am Naad, the first sound. Let me show you how it began." },
+        { "time": 5, "text": "Before form emerged, whether in the singularity of physics or the silent waters of consciousness, existence held its breath." },
+        { "time": 10, "text": "We journey through two grand lenses: the empirical rigor of astrophysics, and the poetic wisdom of the Puranas." }
+      ]
+    },
+    "1": {
+      "id": 1,
+      "title": "Cosmic Ocean",
+      "science": [
+        { "time": 2, "text": "Fourteen billion years ago, the primordial vacuum trembled. Energy condensed into the first light and hydrogen clouds." },
+        { "time": 15, "text": "Across billions of light years, vast dark currents guided the gravitation of matter into cosmic filaments." }
+      ],
+      "purana": [
+        { "time": 2, "text": "Behold the Kshira Sagara—the causal ocean of milk and potentiality." },
+        { "time": 15, "text": "Upon the endless coils of Ananta Shesha, Lord Vishnu rests in Yoga Nidra, meditating the cosmos into being with each gentle breath." }
+      ],
+      "blended": [
+        { "time": 2, "text": "In the silent depths, the cosmic ocean mirrors the quantum vacuum—restless with unmanifest possibilities." },
+        { "time": 16, "text": "Vishnu rests upon Shesha, the serpent of infinity, as physical reality prepares to unfurl from eternal rest." }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "title": "The Lotus Blooms",
+      "science": [
+        { "time": 2, "text": "From dense molecular clouds, gravitation begins to sculpt structure, igniting the first celestial furnaces." },
+        { "time": 15, "text": "Pillars of creation erupt with cosmic energy, sowing elements across the embryonic void." }
+      ],
+      "purana": [
+        { "time": 2, "text": "From Vishnu's navel springs the golden stem of a lotus, bearing the blueprint of all dimensions." },
+        { "time": 14, "text": "Upon its blossoming petals sits Brahma, opening his four eyes to gaze into space, speaking the sacred syllables of creation." }
+      ],
+      "blended": [
+        { "time": 2, "text": "As Brahma awakens upon the lotus of golden light, science witnesses the ignition of the stellar cradle." },
+        { "time": 15, "text": "Consciousness and cosmic matter dance as one, unfurling the architecture of the cosmos." }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "title": "Solar Nebula",
+      "science": [
+        { "time": 2, "text": "Four point six billion years ago, a nearby supernova shockwave collapsed our solar nebula." },
+        { "time": 16, "text": "A swirling accretion disk spins faster and faster, drawing material toward the embryonic young Sun." }
+      ],
+      "purana": [
+        { "time": 2, "text": "Surya, the solar deity, gathers his fiery chariot, spinning radiant spokes of cosmic order." },
+        { "time": 16, "text": "The dust of uncounted past worlds swirls in a celestial yajna, ignited by divine heat." }
+      ],
+      "blended": [
+        { "time": 2, "text": "Watch as millions of particles spiral in the solar nebula, obeying gravitational torque and stellar resonance." },
+        { "time": 16, "text": "The Sun ignites in nuclear fusion, the eternal fire of life and keeper of cosmic rhythm." }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "title": "Planetary Accretion",
+      "science": [
+        { "time": 2, "text": "Within the disk, dust grains cling electrostatically, growing into boulders, planetesimals, and protoplanets." },
+        { "time": 15, "text": "Violent collisions weld rock and iron, releasing immense gravitational heat as proto-Earth forms." }
+      ],
+      "purana": [
+        { "time": 2, "text": "Bhudevi, the sacred Earth, is assembled through the clashing of primal elements: earth, fire, and air." },
+        { "time": 15, "text": "Every impact is a hammer strike on the cosmic anvil, forging the cradle of all beings." }
+      ],
+      "blended": [
+        { "time": 2, "text": "Planetesimals collide in fiery chaos. Out of relentless destruction, planetary unity is born." },
+        { "time": 15, "text": "Matter gathers in sacred gravity, shaping proto-Earth into a molten sphere of iron and silicate." }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "title": "Theia Impact",
+      "science": [
+        { "time": 2, "text": "Four point five billion years ago, a Mars-sized planet named Theia strikes Earth with catastrophic power." },
+        { "time": 18, "text": "The collision vaporizes the mantle, ejecting a glowing debris ring that rapidly coalesces into our Moon." }
+      ],
+      "purana": [
+        { "time": 2, "text": "A celestial titan collides with the young world, sending a blinding flash across the heavens." },
+        { "time": 18, "text": "From the scattered fragments rises Chandra, the Moon, destined to stabilize Earth's sacred tides and breath." }
+      ],
+      "blended": [
+        { "time": 2, "text": "Theia strikes in slow, breathtaking fury. A flash of pure incandescent energy blinds the cosmos." },
+        { "time": 18, "text": "From the shattered ring of fire, the Moon is born—Earth's eternal cosmic companion." }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "title": "Magma Ocean",
+      "science": [
+        { "time": 2, "text": "In the Hadean Eon, Earth is a glowing sea of molten rock, radiating thousands of degrees into space." },
+        { "time": 16, "text": "Heavy iron sinks to the core, generating our protective magnetic shield, while a dark basalt crust begins to cool." }
+      ],
+      "purana": [
+        { "time": 2, "text": "Agni's primordial fires envelop the Earth, purifying the substance of the world." },
+        { "time": 16, "text": "As the surface cools, cracks of liquid flame whisper of the immense furnace within." }
+      ],
+      "blended": [
+        { "time": 2, "text": "The magma ocean roars under a dense sky. Slowly, black tectonic crusts harden against the dark terminator." },
+        { "time": 16, "text": "The geodynamo awakens beneath the crust, casting an invisible shield to protect the world to come." }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "title": "Oceans Arrive & Samudra Manthan",
+      "science": [
+        { "time": 2, "text": "Steam condenses. Torrential rains fall unbroken for centuries, filling the great planetary basins with blue ocean water." },
+        { "time": 20, "text": "Hydrothermal vents spew rich minerals into the deep trenches, turning the ocean into a primordial chemical soup." }
+      ],
+      "purana": [
+        { "time": 2, "text": "The Devas and Asuras churn the cosmic ocean using Mount Mandara and the great serpent Vasuki." },
+        { "time": 20, "text": "From the swirling vortex rises the poison Halahala, swallowed by Shiva, followed by the radiant Amrita—the nectar of immortality." }
+      ],
+      "blended": [
+        { "time": 2, "text": "Water falls from the heavens in endless torrents, transforming the scorched crust into a vibrant blue sapphire." },
+        { "time": 20, "text": "The ocean churns—a scientific crucible of life, and the mythical Samudra Manthan releasing the nectar of eternity." }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "title": "First Life",
+      "science": [
+        { "time": 2, "text": "Deep beneath the waves, organic molecules cross the threshold into self-replicating life." },
+        { "time": 16, "text": "The first single cell divides, carrying the genetic code that will branch into every living creature on Earth." }
+      ],
+      "purana": [
+        { "time": 2, "text": "The subtle spark of Prana enters the water, glowing in microscopic brilliance." },
+        { "time": 16, "text": "Within the smallest drop lies the full seed of the cosmic tree, breathing with primordial intent." }
+      ],
+      "blended": [
+        { "time": 2, "text": "We zoom into the oceanic abyss. Bioluminescent microbes cluster around warm vents." },
+        { "time": 16, "text": "A single cell divides. At this fragile boundary, non-living matter awakens into consciousness." }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "title": "Dashavatara Timeline",
+      "science": [
+        { "time": 2, "text": "Life branches across epochs: marine organisms, amphibious crawlers, land quadrupeds, and conscious minds." },
+        { "time": 20, "text": "Note that the alignment with modern evolutionary biology is a contemplative metaphor, celebrating life's ascending complexity." }
+      ],
+      "purana": [
+        { "time": 2, "text": "Whenever cosmic order wanes, Vishnu incarnates: Matsya the fish, Kurma the turtle, Varaha the boar..." },
+        { "time": 20, "text": "Through Narasimha, Vamana, Parashurama, Rama, Krishna, and Kalki, the divine protects the evolutionary journey." }
+      ],
+      "blended": [
+        { "time": 2, "text": "Look upon the ten avatars: from water-dwelling Matsya, to amphibian Kurma, to terrestrial Varaha, and conscious humanity." },
+        { "time": 20, "text": "While science charts genetic lineage and natural selection, the Dashavatara offers an awe-inspiring philosophical resonance." }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "title": "Cycle of Yugas",
+      "science": [
+        { "time": 2, "text": "Earth has endured four point five four billion years—deep time etched into stone, magnetic reversals, and continental drift." },
+        { "time": 18, "text": "Our modern scientific estimate of Earth's age remarkably mirrors the ancient Hindu kalpa of four point three two billion years." }
+      ],
+      "purana": [
+        { "time": 2, "text": "A single day of Brahma spans a kalpa: four billion three hundred and twenty million solar years, revolving through four Yugas." },
+        { "time": 18, "text": "Satya, Treta, Dvapara, and Kali—the wheel of time turns eternally, measuring the breath of civilizations." }
+      ],
+      "blended": [
+        { "time": 2, "text": "The giant Yuga wheel turns. In astrophysics as in Vedic cosmology, time is measured not in centuries, but in billions of years." },
+        { "time": 18, "text": "A kalpa matches our planet's age with astonishing precision—a testament to ancient cosmic intuition." }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "title": "Pralaya & Renewal",
+      "science": [
+        { "time": 2, "text": "One day, billions of years from now, our Sun will expand and the elements of Earth will return to the interstellar medium." },
+        { "time": 16, "text": "Every atom in our bodies was forged in stellar cores and will seed new stars in the cosmic cycle." }
+      ],
+      "purana": [
+        { "time": 2, "text": "At the close of the kalpa comes Pralaya—the great dissolution. All forms melt into the luminous cosmic ocean." },
+        { "time": 16, "text": "Lord Vishnu breathes in, gathering the cosmos back into his supreme heart, preparing for the next dawn." }
+      ],
+      "blended": [
+        { "time": 2, "text": "All forms dissolve back into golden radiance. Science calls it cosmic recycling; the Purana calls it Pralaya." },
+        { "time": 16, "text": "We all came from this. In every atom, in every breath, the journey of creation continues within you." }
+      ]
+    }
+  }
+}

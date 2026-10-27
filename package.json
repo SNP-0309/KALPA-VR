@@ -1,0 +1,20 @@
+{
+  "name": "genesis-webxr",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "node server/index.js"
+  },
+  "dependencies": {
+    "three": "^0.170.0",
+    "postprocessing": "^6.36.0",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
