@@ -7,7 +7,8 @@
     "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview",
-    "server": "node server/index.js"
+    "server": "node server/index.js",
+    "check:script": "node scripts/check-script.js"
   },
   "dependencies": {
     "three": "^0.170.0",

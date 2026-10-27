@@ -108,6 +108,33 @@ export class PostProcessingManager {
     }
   }
 
+  applyLook(look) {
+    if (!look) return;
+    if (this.bloomEffect) {
+      if (look.bloomIntensity !== undefined) this.bloomEffect.intensity = look.bloomIntensity;
+      if (look.bloomThreshold !== undefined && this.bloomEffect.luminanceMaterial) {
+        this.bloomEffect.luminanceMaterial.threshold = look.bloomThreshold;
+      }
+    }
+    if (this.vignetteEffect) {
+      if (look.vignetteOffset !== undefined) this.vignetteEffect.offset = look.vignetteOffset;
+      if (look.vignetteDarkness !== undefined) this.vignetteEffect.darkness = look.vignetteDarkness;
+    }
+    if (this.renderer && look.exposure !== undefined) {
+      this.renderer.toneMappingExposure = look.exposure;
+    }
+    if (this.scene) {
+      if (look.fogDensity && look.fogDensity > 0) {
+        this.scene.fog = new THREE.FogExp2(look.fogColor || '#08122a', look.fogDensity);
+      } else {
+        this.scene.fog = null;
+      }
+      if (look.skyColor) {
+        this.scene.background = new THREE.Color(look.skyColor);
+      }
+    }
+  }
+
   setQuality(presetKey) {
     this.qualityPresetKey = presetKey;
     this.enabled = presetKey !== 'low';
